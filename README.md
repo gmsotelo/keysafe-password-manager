@@ -24,10 +24,10 @@
 
 ### Generate a password
 <p align="left">
-  <img src="Screenshot 2023-11-28 142021.png" />
+  <img src="Screenshot 2023-11-28 142054.png" />
 </p>
 
 ### Search for a password
 <p align="left">
-  <img src="Screenshot 2023-11-28 142054.png" />
+  <img src="Screenshot 2023-11-28 142021.png" />
 </p>
