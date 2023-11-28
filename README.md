@@ -18,14 +18,16 @@
 
 ## Screenshots
 ### Main UI
-<p align="center">
+<p align="left">
   <img src="Screenshot 2023-11-28 141920.png" />
 </p>
+
 ### Generate a password
-<p align="center">
+<p align="left">
   <img src="Screenshot 2023-11-28 142021.png" />
 </p>
+
 ### Search for a password
-<p align="center">
+<p align="left">
   <img src="Screenshot 2023-11-28 142054.png" />
 </p>
